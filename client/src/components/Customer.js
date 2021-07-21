@@ -18,7 +18,7 @@ class Customer extends React.Component {
     );
   }
 }
-
+/*
 class CustomerProfile extends React.Component {
   render() {
     return (
@@ -43,4 +43,5 @@ class CustomerInfo extends React.Component {
     );
   }
 }
+*/
 export default Customer;
