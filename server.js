@@ -20,8 +20,8 @@ app.get("/api/customers", (req, res) => {
       id: "2",
       image: "https://placeimg.com/64/64/2",
       name: "Moon",
-      date: "1996.12.31",
-      money: "+2900",
+      date: "1986.12.31",
+      money: "+8,900",
       interest: "0.1",
     },
     {
@@ -37,7 +37,7 @@ app.get("/api/customers", (req, res) => {
       image: "https://placeimg.com/64/64/4",
       name: "Star3",
       date: "2014.08.18",
-      money: "20,000",
+      money: "0",
       interest: "0.1",
     },
   ]);
